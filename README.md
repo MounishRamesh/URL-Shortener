@@ -2,6 +2,10 @@
 
 A minimal URL shortener built with **Flask** and **SQLite**.
 
+## Live Demo
+
+🔗 [Click here](https://url-shortener-msqq.onrender.com/) to try it out.
+
 ## Features
 
 - `POST /api/shorten` — submit a long URL (and optionally a custom alias) and get back a short code.
@@ -9,10 +13,6 @@ A minimal URL shortener built with **Flask** and **SQLite**.
 - `GET /api/urls` — lists all shortened URLs (for the demo table on the frontend).
 - Basic web frontend (`/`) to create and view short links.
 - Data persisted in a local SQLite database file (`urls.db`), created automatically on first run.
-
-## Live Demo
-
-🔗 [Click here](https://url-shortener-msqq.onrender.com/) to try it out.
 
 ## Project structure
 
