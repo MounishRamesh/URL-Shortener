@@ -10,6 +10,10 @@ A minimal URL shortener built with **Flask** and **SQLite**.
 - Basic web frontend (`/`) to create and view short links.
 - Data persisted in a local SQLite database file (`urls.db`), created automatically on first run.
 
+## Live Demo
+
+🔗 [Click here](https://url-shortener-70id.onrender.com/) to try it out.
+
 ## Project structure
 
 ```
