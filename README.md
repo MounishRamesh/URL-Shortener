@@ -12,7 +12,7 @@ A minimal URL shortener built with **Flask** and **SQLite**.
 
 ## Live Demo
 
-🔗 [Click here](https://url-shortener-70id.onrender.com/) to try it out.
+🔗 [Click here](https://url-shortener-msqq.onrender.com/) to try it out.
 
 ## Project structure
 
